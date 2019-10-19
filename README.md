@@ -59,6 +59,12 @@ result:
 }
 ```
 
+#### Manually run
+
+```
+node crawler.js
+```
+
 ## Test
 ```
 npm run test
