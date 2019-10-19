@@ -66,4 +66,4 @@ npm run test
 
 ## Doc
 
-[apidoc](https://github.com/xptavares/crawler/blob/master/doc/index.html)
+Open local: [apidoc](https://github.com/xptavares/crawler/blob/master/doc/index.html)
