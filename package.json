@@ -1,0 +1,22 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "Crawler For hotels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xptavares/crawler.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Alexandre Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xptavares/crawler/issues"
+  },
+  "homepage": "https://github.com/xptavares/crawler#readme"
+}

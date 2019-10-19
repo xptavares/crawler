@@ -1,0 +1,7 @@
+node_modules/
+.idea
+*.log
+config/default.json
+*.env
+.nyc_output/
+coverage/
